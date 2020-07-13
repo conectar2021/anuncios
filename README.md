@@ -8,7 +8,7 @@ Las actividades serán tanto sincrónicas como asincrónicas, nuestro objetivo e
 
 Podés enviarnos tu vídeo de 20 minutos, compartiendo tu experiencia acerca de temas como:
 
-** Enseñanza + Industria + Academia + Gobierno y Ciencia Ciudadana **
+**Enseñanza o Industria o Academia o Gobierno y Ciencia Ciudadana**
 
 Y más específicamente en:
 
@@ -51,7 +51,7 @@ Las personas que se conectan con la plataforma virtual con la que organizamos el
 * Solamente se puede compartir pantalla tras la invitación expresa del moderador, quien en todo momento tiene la autoridad plena de apagar una pantalla.
 * Solamente se mostrará contenido directamente relevante a la conferencia. 
 
-Acerca de la comunicación por medio del chat.
+Acerca de la comunicación por medio del chat:
 
 * En el chat solamente se aceptará lenguaje acorde con el evento y que refleje el comportamiento explicado arriba.
 * Cualquier decisión del moderador o del comité organizador o gente que hayan delegado sobre la participación de una persona en plataformas virtuales es final y no se discute ni se aceptan reclamos.
