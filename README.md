@@ -6,9 +6,9 @@ Te invitamos a participar en el Encuentro Virtual de Usuarios R en Latinoaméric
 
 Las actividades serán tanto sincrónicas como asincrónicas, nuestro objetivo es facilitar un espacio de comunicación abierta, inclusivo, y con facilidades tecnológicas para conocernos mejor, intercambiar ideas y apoyar nuevas colaboraciones entre personas usuarias R hispanoparlante. 
 
-Podés enviarnos tu vídeo de 20 minutos, compartiendo tu experiencia acerca de temas como:
+Los temas en los cuales nos enfocamos son:
 
-**Enseñanza o Industria o Academia o Gobierno y Ciencia Ciudadana**
+**Enseñanza** - **Industria** - **Academia** - **Gobierno y Ciencia Ciudadana**
 
 Y más específicamente en:
 
@@ -27,7 +27,7 @@ Y más específicamente en:
 
 ¿Tenés una idea para hacer una presentación? El proceso es el siguiente:
 
-1. Envíanos un título con una breve descripción, el nombre de las personas que colaboraron y de la persona que presentará, junto con una pequeña biografía. La fecha límite de envío será el 1ero de octubre del 2020. Recibiremos las propuestas vía correo electrónico: conectar@ucr.ac.cr.
+1. Envíanos un título con una breve descripción, el nombre de las personas que colaboraron y de la persona que presentará, junto con una pequeña biografía. La fecha límite de envío será el 1ero de octubre del 2020. Recibiremos las propuestas vía [este formulario en linea (googleforms)](https://forms.gle/w46i9ZNgQYsu7Dg98).
 2. El comité organizador revisará las propuestas e invitará a las personas que tengan las mejores presentaciones con las respectivas instrucciones del formato.
 3. Hay dos modalidades: presentación de 20 minutos y carteles. 
 
